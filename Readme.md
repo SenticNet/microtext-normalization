@@ -9,10 +9,12 @@ This code is for *Seq2Seq Deep Learning Models for Microtext Normalization*. If 
 
 
 ```
-@inproceedings{ranjan2019,
-title = {Seq2Seq Deep Learning Models for Microtext Normalization},
-author = {Ranjan Satapathy, Yang Li, Sandro Cavallari, Erik Cambria},
-year = {2019},
-booktitle = {Proceedings of International Joint Conference on Neural Networks (IJCNN)}
+@inproceedings{satapathy2019seq2seq,
+  title={Seq2Seq Deep Learning Models for Microtext Normalization},
+  author={Satapathy, Ranjan and Li, Yang and Cavallari, Sandro and Cambria, Erik},
+  booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2019},
+  organization={IEEE}
 }
 ```
